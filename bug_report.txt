@@ -1,0 +1,59 @@
+----- 01/03/24 22:24:59 -----
+Traceback (most recent call last):
+  File "c:\Users\GREESHRAJ PATAIRIYA\Desktop\chess\Chess Game using Python\gui.py", line 161, in play_as
+    CLOCK.tick(CLOCK_TICK)
+KeyboardInterrupt
+
+Playing as WHITE:
+	e2e4 e7e5 b1c3 g8f6 g1f3 d7d5 f3e5 d5e4 c3e4 f6e4 f1c4 f7f5 e5f7 d8d7 f7h8 b8c6 d1h5 g7g6 h5h7 d7h7
+	rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+	rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1
+	rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq e6 0 2
+	rnbqkbnr/pppp1ppp/8/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2
+	rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3
+	rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3
+	rnbqkb1r/ppp2ppp/5n2/3pp3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq d6 0 4
+	rnbqkb1r/ppp2ppp/5n2/3pN3/4P3/2N5/PPPP1PPP/R1BQKB1R b KQkq - 0 4
+	rnbqkb1r/ppp2ppp/5n2/4N3/4p3/2N5/PPPP1PPP/R1BQKB1R w KQkq - 0 5
+	rnbqkb1r/ppp2ppp/5n2/4N3/4N3/8/PPPP1PPP/R1BQKB1R b KQkq - 0 5
+	rnbqkb1r/ppp2ppp/8/4N3/4n3/8/PPPP1PPP/R1BQKB1R w KQkq - 0 6
+	rnbqkb1r/ppp2ppp/8/4N3/2B1n3/8/PPPP1PPP/R1BQK2R b KQkq - 1 6
+	rnbqkb1r/ppp3pp/8/4Np2/2B1n3/8/PPPP1PPP/R1BQK2R w KQkq f6 0 7
+	rnbqkb1r/ppp2Npp/8/5p2/2B1n3/8/PPPP1PPP/R1BQK2R b KQkq - 1 7
+	rnb1kb1r/pppq1Npp/8/5p2/2B1n3/8/PPPP1PPP/R1BQK2R w KQkq - 2 8
+	rnb1kb1N/pppq2pp/8/5p2/2B1n3/8/PPPP1PPP/R1BQK2R b KQkq - 0 8
+	r1b1kb1N/pppq2pp/2n5/5p2/2B1n3/8/PPPP1PPP/R1BQK2R w KQkq - 1 9
+	r1b1kb1N/pppq2pp/2n5/5p1Q/2B1n3/8/PPPP1PPP/R1B1K2R b KQkq - 2 9
+	r1b1kb1N/pppq3p/2n3p1/5p1Q/2B1n3/8/PPPP1PPP/R1B1K2R w KQkq - 0 10
+	r1b1kb1N/pppq3Q/2n3p1/5p2/2B1n3/8/PPPP1PPP/R1B1K2R b KQkq - 0 10
+	r1b1kb1N/ppp4q/2n3p1/5p2/2B1n3/8/PPPP1PPP/R1B1K2R w KQkq - 0 11
+-----------------------------
+
+----- 01/03/24 22:27:31 -----
+Traceback (most recent call last):
+  File "c:\Users\GREESHRAJ PATAIRIYA\Desktop\chess\Chess Game using Python\gui.py", line 161, in play_as
+    CLOCK.tick(CLOCK_TICK)
+KeyboardInterrupt
+
+Playing as BLACK:
+	d2d4 d7d5 b1c3 g8f6 g1f3 b8c6 e2e4 c6d4 f3d4 f6e4 c3e4 d5e4 f1b5 c7c6 b5c6 b7c6 e1g1
+	rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+	rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1
+	rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq d6 0 2
+	rnbqkbnr/ppp1pppp/8/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR b KQkq - 1 2
+	rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq - 2 3
+	rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2N2N2/PPP1PPPP/R1BQKB1R b KQkq - 3 3
+	r1bqkb1r/ppp1pppp/2n2n2/3p4/3P4/2N2N2/PPP1PPPP/R1BQKB1R w KQkq - 4 4
+	r1bqkb1r/ppp1pppp/2n2n2/3p4/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq e3 0 4
+	r1bqkb1r/ppp1pppp/5n2/3p4/3nP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 5
+	r1bqkb1r/ppp1pppp/5n2/3p4/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 0 5
+	r1bqkb1r/ppp1pppp/8/3p4/3Nn3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6
+	r1bqkb1r/ppp1pppp/8/3p4/3NN3/8/PPP2PPP/R1BQKB1R b KQkq - 0 6
+	r1bqkb1r/ppp1pppp/8/8/3Np3/8/PPP2PPP/R1BQKB1R w KQkq - 0 7
+	r1bqkb1r/ppp1pppp/8/1B6/3Np3/8/PPP2PPP/R1BQK2R b KQkq - 1 7
+	r1bqkb1r/pp2pppp/2p5/1B6/3Np3/8/PPP2PPP/R1BQK2R w KQkq - 0 8
+	r1bqkb1r/pp2pppp/2B5/8/3Np3/8/PPP2PPP/R1BQK2R b KQkq - 0 8
+	r1bqkb1r/p3pppp/2p5/8/3Np3/8/PPP2PPP/R1BQK2R w KQkq - 0 9
+	r1bqkb1r/p3pppp/2p5/8/3Np3/8/PPP2PPP/R1BQ1RK1 b kq - 1 9
+-----------------------------
+
